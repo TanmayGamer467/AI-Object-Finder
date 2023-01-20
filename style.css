@@ -1,0 +1,38 @@
+.heading{
+font-size: 20px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin: 0px;
+width:100%;
+}
+
+#status,#number_of_objects{
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    background-size: cover;
+}
+
+.form-group{
+    width: 30%;
+}
+
+.copy_right_footer{
+    color: antiquewhite;
+    background-color: lightskyblue;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+    line-height: 2;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+canvas{
+    border-width: 2px;
+    border-color: aqua;
+    border-style: dotted;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px lightskyblue;
+}
